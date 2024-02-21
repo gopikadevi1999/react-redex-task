@@ -62,9 +62,9 @@ function Cart() {
                                     <p className="card-text">${e.price} </p>
                                 </div>
                                 <div className='d-flex justify-content-between align-items-center'>
-                                Discount Offer
+                                    Discount Offer
                                     <p className="card-text">{e.discountPercentage}%</p>
-                                </div>   
+                                </div>
                                 <div className='d-flex justify-content-between align-items-center'>
                                     Discount Amount :
                                     <p className="card-text text-success"> - ${discountPrice}</p>
