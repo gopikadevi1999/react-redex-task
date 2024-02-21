@@ -1,0 +1,20 @@
+*{
+  background-color: white;
+}
+
+.container {
+  margin-left: 12%;
+}
+
+.card {
+  padding: 2%;
+  border: 2px solid grey;
+}
+
+.img-card {
+  width: 40% !important;
+}
+
+.top-header {
+  align-items: flex-start;
+}
